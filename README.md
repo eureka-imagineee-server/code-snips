@@ -1,5 +1,10 @@
-# code-snips
-code snips is a library of css, js and more code snippets to use in your code
+<h1 align="center">Code Snips</h1>
+<p align="center">
+  <img src="code snips cover.png" width="50%">
+</p>
+code snips is a library of css, js and more code snippets to use in your code.
+
+read more on the [blog](https://dev.to/imagineeeinc/code-snips-1np6)
 
 Note: currently screenshots are not ready yet.
 
