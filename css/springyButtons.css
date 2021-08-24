@@ -1,0 +1,33 @@
+button {
+  background-color: white;
+  color: black;
+  opacity: .7;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  outline: none;
+  transition-duration: .2s;
+  user-slect: none;
+}
+button[class="primary"]{
+  background: cornflowerblue;
+}
+button[class="yes"]{
+  background: springgreen;
+}
+button[class="warn"]{
+  background: darkorange;
+}
+button[class="no"]{
+  background: crimson;
+}
+button:hover {
+  opacity: 1;
+  border: 1px solid grey;
+  box-shadow: 0 10px 20px lightgrey;
+}
+button:active {
+  box-shadow: 0 1px 8px lightgrey;
+  transform: translateY(2px) rotateX(20deg);
+}
