@@ -22,6 +22,10 @@ button[class="warn"]{
 button[class="no"]{
   background: crimson;
 }
+button[class="black"]{
+  background: black;
+  color: white;
+}
 button:hover {
   opacity: 1;
   border: 1px solid grey;
