@@ -21,3 +21,16 @@ eg.:> `<kbd>Ctrl</kbd>+<kbd>V</kbd>`
 get sleek looking code boxes with this.
 
 for more usage [read my post](https://dev.to/imagineeeinc/a-clean-code-box-4ma1) about usage
+### [Springy Buttons](https://eureka-imagineee-server.github.io/code-snips/css/springyButtons.css)
+The Button element is is amazing and in this you can add amzing styles to it like floating and springs up and down on click.
+
+There are also cool colours with class, the avalible are:
+- *none*: white bg
+- primary: corn flower blue bg
+- yes: spring green bg
+- warn: dark orange bg
+- no: crimson bg
+- black: black bg and white text
+
+just your button in html
+eg.:> `<button>Click Me!</button>`
